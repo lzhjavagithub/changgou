@@ -1,0 +1,4 @@
+com\changgou\controller\BrandController.class
+com\changgou\service\BrandService.class
+com\changgou\GoodsApplication.class
+com\changgou\dao\BrandMapper.class
